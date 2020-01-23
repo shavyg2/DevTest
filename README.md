@@ -1,5 +1,4 @@
-Create a node/c# application that satisfy this question.
-and provide proof of it answering correctly. This can be shared via repl.it or a repo.
+Create a node/c# application that satisfies this question and provide proof of it answering correctly. This can be shared via repl.it or a repo.
 
 Please keep it to one file for each solution.
 You can use Javascript / C# / Typescript
