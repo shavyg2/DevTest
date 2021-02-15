@@ -1,5 +1,4 @@
 export class Connect4 {
-    
     constructor() {
       this._isNewGameStart = true;
       this._isGameFinished = false;
@@ -42,17 +41,21 @@ export class Connect4 {
         return message;
       }
       this._board[row][col] = player.PlayerMoveSign;
-      let isWin = this._checkWinner();
+      let isWin: boolean = this._checkWinner();
       if(isWin) {
         message = player.PlayerWinMessage;
       }
       else
       {
-        if( player instanceof Player1 ) this._currentPlayer = this._player2;
-        else if ( player instanceof Player2 ) this._currentPlayer = this._player1;
-        this._currentPlayer.ShouldPlayerMove = true;
+        this._swapPlayer(player);
       }
       return message;
+    }
+
+    _swapPlayer(player : PlayerInfo) : void {
+      if( player instanceof Player1 ) this._currentPlayer = this._player2;
+      else if ( player instanceof Player2 ) this._currentPlayer = this._player1;
+      this._currentPlayer.ShouldPlayerMove = true;
     }
 
     _checkWinner() : boolean{
