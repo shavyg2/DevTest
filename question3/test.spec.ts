@@ -1,6 +1,6 @@
 
 import {assert} from "chai";
-import { Connect4 } from "./main";
+import  Connect4  from "./main";
 
 describe("Sample Tests", function() {
   it("Should pass sample tests", function() {
