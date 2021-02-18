@@ -9,4 +9,5 @@ it('Simple tests', function() {
   assert.equal(findOutlier([2, 6, 8, 10, 3]), 3);
   assert.equal(findOutlier([0, 0, 3, 0, 0]), 3);
   assert.equal(findOutlier([1, 1, 0, 1, 1]), 0);
+  assert.equal(findOutlier([1, 3, 5, 7, 19, 10, 13, 25, 21]), 10);
 });
