@@ -10,5 +10,9 @@ describe("example", function() {
     assert.equal(isValidWalk(['w','e','w','e','w','e','w','e','w','e','w','e']), false);
     assert.equal(isValidWalk(['w']), false);
     assert.equal(isValidWalk(['n','n','n','s','n','s','n','s','n','s']), false);
+    assert.equal(isValidWalk(['n','s','w','e','n','s','w','e','n','s']), true);
+    assert.equal(isValidWalk(['n','s','w','e','n','s','w','n','n','s']), false);
+    assert.equal(isValidWalk(['n','s','w','e','n','s','w','e','n','s','s']), false);
+    assert.equal(isValidWalk(['n','s','w','e','n','s']), false);
   });
 });
