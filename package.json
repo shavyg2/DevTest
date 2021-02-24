@@ -1,4 +1,10 @@
 {
+  "scripts": {
+    "test": " jest  --watchAll --runInBand"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
   "devDependencies": {
     "@types/jest": "^24.9.0",
     "chai": "^4.2.0",
