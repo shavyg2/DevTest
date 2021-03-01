@@ -1,0 +1,13 @@
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.AssemblyInfoInputs.cache
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.AssemblyInfo.cs
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.csproj.CoreCompileInputs.cache
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.exe
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.deps.json
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.runtimeconfig.json
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.runtimeconfig.dev.json
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.dll
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\bin\Debug\netcoreapp3.1\DevTest.pdb
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.dll
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.pdb
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.genruntimeconfig.cache
+C:\Users\ramielkazma\source\repos\DevTest\DevTest\obj\Debug\netcoreapp3.1\DevTest.csprojAssemblyReference.cache

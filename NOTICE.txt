@@ -1,0 +1,7 @@
+Implemented in C#
+
+Included all files (project and solution)
+
+The first two questions are static methods and can be tested in the main method
+
+The third question is tested in the main method of class Question3 but includes a Connect4 class that implements the game.
